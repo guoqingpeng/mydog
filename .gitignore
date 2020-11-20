@@ -1,0 +1,6 @@
+/target/
+/.classpath
+/.project
+/.settings/
+/dbay-game-farm-web.iml
+/.idea/
